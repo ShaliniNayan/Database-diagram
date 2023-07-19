@@ -84,7 +84,7 @@ After you're finished please remove all the comments and instructions!
 - OPtimization the foreign key with indexing💯
 - Use the many to many relationship🚀
 - Schema Diagram image :
-  ![Database-diagram pgerd]()
+  ![Database-diagram pgerd](![Alt text](Clinic.pgerd.png))
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
